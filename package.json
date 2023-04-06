@@ -2,7 +2,7 @@
   "name": "camunda-modeler-custom-linter-rules-plugin",
   "version": "0.0.0",
   "private": true,
-  "description": "Provide custom linter rules to the Camunda Modeler",
+  "description": "Custom linter rules for modeling best practices",
   "main": "index.js",
   "scripts": {
     "all": "run-s build",

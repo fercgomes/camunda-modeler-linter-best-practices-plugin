@@ -5,6 +5,7 @@
   ],
   "rules": {
     "label-required": "off",
-    "custom/no-manual-task": "warn"
+    "custom/task-without-verb": "error",
+    "custom/number-of-elements": "error"
   }
 }
